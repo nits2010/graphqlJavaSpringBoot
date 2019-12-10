@@ -1,0 +1,6 @@
+com/learning/resolver/VehicleQuery.class
+com/learning/resolver/VehicleMutation.class
+com/learning/Application.class
+com/learning/repository/VehicleRepository.class
+com/learning/model/Vehicle.class
+com/learning/services/VehicleService.class

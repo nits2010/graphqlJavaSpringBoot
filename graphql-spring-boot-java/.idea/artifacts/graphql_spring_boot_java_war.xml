@@ -1,0 +1,14 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="graphql-spring-boot-java:war">
+    <output-path>$PROJECT_DIR$/target</output-path>
+    <properties id="maven-jee-properties">
+      <options>
+        <module>graphql-spring-boot-java</module>
+        <packaging>war</packaging>
+      </options>
+    </properties>
+    <root id="archive" name="hackernews.war">
+      <element id="artifact" artifact-name="graphql-spring-boot-java:war exploded" />
+    </root>
+  </artifact>
+</component>
