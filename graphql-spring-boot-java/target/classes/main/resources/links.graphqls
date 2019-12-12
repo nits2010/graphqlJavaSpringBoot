@@ -1,0 +1,15 @@
+type Link {
+    id: ID!
+    url: String!
+    description: String!
+    postedBy: User
+}
+
+extend type Query {
+    allLinks: [Link]
+}
+
+
+extend type Mutation {
+    createLink(url: String!, description: String!): Link
+}

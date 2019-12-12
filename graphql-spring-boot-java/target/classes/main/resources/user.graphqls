@@ -1,0 +1,24 @@
+type User {
+    id: ID!
+    name: String!
+    email: String
+    password: String
+}
+
+input AuthData {
+    email: String!
+    password: String!
+}
+
+extend type Mutation {
+
+    createUser(name: String!, authProvider: AuthData!): User
+    signinUser(auth: AuthData): SigninPayload
+
+}
+
+
+type SigninPayload {
+    token: String
+    user: User
+}

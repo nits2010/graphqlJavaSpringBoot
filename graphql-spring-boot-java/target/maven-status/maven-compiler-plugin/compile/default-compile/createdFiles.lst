@@ -1,6 +1,10 @@
-com/learning/resolver/VehicleQuery.class
-com/learning/resolver/VehicleMutation.class
+com/learning/vechicle/resolver/VehicleQuery.class
 com/learning/Application.class
-com/learning/repository/VehicleRepository.class
-com/learning/model/Vehicle.class
-com/learning/services/VehicleService.class
+com/learning/links/model/Link.class
+com/learning/vechicle/repository/VehicleRepository.class
+com/learning/links/resolver/LinkMutation.class
+com/learning/vechicle/resolver/VehicleMutation.class
+com/learning/vechicle/services/VehicleService.class
+com/learning/links/repository/LinkRepository.class
+com/learning/links/resolver/LinkQuery.class
+com/learning/vechicle/model/Vehicle.class

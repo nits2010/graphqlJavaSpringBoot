@@ -1,0 +1,13 @@
+type Link {
+  url: String!
+  description: String!
+}
+
+extend type Query {
+  allLinks: [Link]
+}
+
+
+extend type Mutation {
+    createLink(url: String!, description: String!): Link
+}

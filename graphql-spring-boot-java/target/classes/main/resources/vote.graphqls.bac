@@ -1,0 +1,13 @@
+extend type Mutation {
+    #the others stay the same
+    createVote(linkId: ID, userId: ID): Vote
+}
+
+type Vote {
+    id: ID!
+    createdAt: DateTime!
+    user: User!
+    link: Link!
+}
+
+scalar DateTime

@@ -1,6 +1,10 @@
-/Users/ngupta14/Documents/Workspace/learning/graphql/graphqlJavaSpringBoot/graphql-spring-boot-java/src/main/java/com/learning/resolver/VehicleQuery.java
+/Users/ngupta14/Documents/Workspace/learning/graphql/graphqlJavaSpringBoot/graphql-spring-boot-java/src/main/java/com/learning/links/repository/LinkRepository.java
 /Users/ngupta14/Documents/Workspace/learning/graphql/graphqlJavaSpringBoot/graphql-spring-boot-java/src/main/java/com/learning/Application.java
-/Users/ngupta14/Documents/Workspace/learning/graphql/graphqlJavaSpringBoot/graphql-spring-boot-java/src/main/java/com/learning/repository/VehicleRepository.java
-/Users/ngupta14/Documents/Workspace/learning/graphql/graphqlJavaSpringBoot/graphql-spring-boot-java/src/main/java/com/learning/resolver/VehicleMutation.java
-/Users/ngupta14/Documents/Workspace/learning/graphql/graphqlJavaSpringBoot/graphql-spring-boot-java/src/main/java/com/learning/model/Vehicle.java
-/Users/ngupta14/Documents/Workspace/learning/graphql/graphqlJavaSpringBoot/graphql-spring-boot-java/src/main/java/com/learning/services/VehicleService.java
+/Users/ngupta14/Documents/Workspace/learning/graphql/graphqlJavaSpringBoot/graphql-spring-boot-java/src/main/java/com/learning/links/model/Link.java
+/Users/ngupta14/Documents/Workspace/learning/graphql/graphqlJavaSpringBoot/graphql-spring-boot-java/src/main/java/com/learning/links/resolver/LinkMutation.java
+/Users/ngupta14/Documents/Workspace/learning/graphql/graphqlJavaSpringBoot/graphql-spring-boot-java/src/main/java/com/learning/vechicle/resolver/VehicleQuery.java
+/Users/ngupta14/Documents/Workspace/learning/graphql/graphqlJavaSpringBoot/graphql-spring-boot-java/src/main/java/com/learning/vechicle/services/VehicleService.java
+/Users/ngupta14/Documents/Workspace/learning/graphql/graphqlJavaSpringBoot/graphql-spring-boot-java/src/main/java/com/learning/vechicle/model/Vehicle.java
+/Users/ngupta14/Documents/Workspace/learning/graphql/graphqlJavaSpringBoot/graphql-spring-boot-java/src/main/java/com/learning/vechicle/resolver/VehicleMutation.java
+/Users/ngupta14/Documents/Workspace/learning/graphql/graphqlJavaSpringBoot/graphql-spring-boot-java/src/main/java/com/learning/links/resolver/LinkQuery.java
+/Users/ngupta14/Documents/Workspace/learning/graphql/graphqlJavaSpringBoot/graphql-spring-boot-java/src/main/java/com/learning/vechicle/repository/VehicleRepository.java
